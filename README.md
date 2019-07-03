@@ -1,4 +1,4 @@
-# Front-end-developer-test
+# Front-end developer test
 
 ## Chrometoaster Front-end developer pre-meeting task
 
