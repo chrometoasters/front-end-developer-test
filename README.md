@@ -1,6 +1,4 @@
-# Front-end developer test
-
-## Chrometoaster Front-end developer pre-meeting task
+# Chrometoaster Front-end developer pre-meeting task
 
 Thanks for taking the time to complete this pre-meeting task. It's not a test — please don't think of it like that, there's no 'right answer'. It's an intentionally open brief that allows both parties to talk about approaches to front-end development. Why you do a particular thing, in a particular way, is as much of interest to us as whether it's best practice or not.
 
