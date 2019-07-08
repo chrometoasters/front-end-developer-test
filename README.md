@@ -13,3 +13,11 @@ Please build the wireframe supplied in PSD format (complete with authentically n
 * The template should be responsive (preferably mobile-first); it's up to you to interpret how the layout would work at a narrow width.
 * The button should hide and show the notification below it using JavaScript.
 * Please provide the sourcecode used to build the site.
+
+You may choose to consider the following aspects of our team’s day-to-day development practice:
+
+* Working within a team of developers
+* Use of build tools
+* Code modularity / interoperability
+* Accessibility
+ 
